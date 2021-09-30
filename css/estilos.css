@@ -1,0 +1,11 @@
+body {background-color: #5DADE2;}
+.color1 {color: #641E16}
+#titulo {color: #C0392B; text-align: center; text-decoration: underline;font-size: large;}
+
+ .color1 {font-size: large; text-align: center;}
+.color2 {color: #641E16; font-size: large;}
+.alinear {align-content: center;}
+
+.subrayar {text-decoration: underline;font-size: large; text-align: center; color: #641E16}
+
+.grande {height: 300px; width: 300px}
